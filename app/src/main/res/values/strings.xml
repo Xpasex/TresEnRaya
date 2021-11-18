@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TresEnRaya</string>
+    <string name="descp">Esta imagen es un espacio de juego.</string>
+    <string name="jugador1">Nombre de Player 1</string>
+    <string name="jugador2">Nombre de Player 2</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="labelTitulo">Juego del gato by Collectick.</string>
+    <string name="boton">Este botón manda a la siguiente activity</string>
+    <string name="finall">¡Juego terminado!</string>
+    <string name="ganadorr">Ganador: </string>
+    <string name="empatee">Empate</string>
+    <string name="salirr">Salir</string>
+    <string name="backplay">Volver a jugar</string>
+
+</resources>
